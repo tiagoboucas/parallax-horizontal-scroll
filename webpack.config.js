@@ -5,7 +5,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
     entry: './src/index.js',
     output: {
       path: path.resolve(__dirname, 'dist'),
-      filename: 'webpack-numbers.js',
+      filename: 'parallax-horizontal-scroll.js',
       library: {
         name: "parallax-horizontal-scroll",
         type: "umd"

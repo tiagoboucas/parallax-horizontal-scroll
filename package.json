@@ -1,5 +1,5 @@
 {
-  "main": "dist/webpack-numbers.js",
+  "main": "dist/parallax-horizontal-scroll.js",
   "module": "src/index.js",
   "scripts": {
     "dev": "webpack --watch --mode development",
